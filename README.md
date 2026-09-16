@@ -26,7 +26,7 @@ Aspiring Java Backend Developer | Batch of 2027
 ### Featured Projects
 
 **[PayMoney](https://github.com/VASUSINH/PayMoney)**
-Fintech wallet and payments platform — Java 21, Spring Boot
+Fintech wallet and payments platform — Java 21, SpringBoot
 
 **[E-Commerce Backend](https://github.com/VASUSINH/Springboot-Ecommerce-Backend-CRUD-and-Search-Feature)**
 RESTful API with CRUD + search — Spring Boot, Spring Data JPA
