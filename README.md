@@ -1,6 +1,6 @@
 ### Hi, I'm Ayush 👋
 
-I'm a Computer Science student graduating in 2027, with a growing interest in backend engineering — how systems are designed to scale and stay reliable behind the scenes. Over the past year, I've been building backend projects on my own, outside of coursework, to understand how real applications are structured, not just how to write code that runs. Currently strengthening my fundamentals and preparing for SDE/Backend Developer roles, with an eye on eventually working on systems that handle real-world scale.
+I'm a Computer Science student graduating in 2027, with a growing interest in backend engineering — how systems are designed to scale and stay reliable behind the scenes. Over the past year, I've been building backend projects on my own, outside of coursework, to understand how real applications are structured, not just how to write code that runs. Currently building backend systems with Java & Spring Boot and preparing for Java Backend Developer Roles.
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -14,10 +14,10 @@ I'm a Computer Science student graduating in 2027, with a growing interest in ba
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-Aspiring Java Backend Developer | Batch of 2027
+Java Backend Developer | Computer Science Student | Batch of 2027
 
 - 🔧 **Stack:** Java, OOPs, Exception Handling, Authentication & Authorization, JWT, Spring Boot, Spring Data JPA, Spring Security Postgres SQL, MySQL, REST APIs, Docker
-- 🚀 **Currently building:** PayMoney — a fintech wallet & payments platform
+- 🚀 **Currently building:** PayMoney — A Digital Wallet & Payment Processing Backend Built with Java 21, Spring Boot, Spring Security, JWT & PostgreSQL.
 - 🔍 **Open to:** Java Developer/SDE / Backend Developer Roles
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ayush-sinha-7611572a1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - · Your-Email : ayush21052003@gmail.com
